@@ -35,8 +35,8 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #1abc9c;
-  --bs-secondary: #2c3e50;
-  --bs-success: #198754;
+  --bs-secondary: #3892ec;
+  --bs-success: #208154;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
@@ -2024,7 +2024,7 @@ progress {
   background-color: #fff;
   border-color: #8ddece;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(26, 188, 156, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(55, 182, 157, 0.25);
 }
 .form-control::-webkit-date-and-time-value {
   height: 1.5em;
